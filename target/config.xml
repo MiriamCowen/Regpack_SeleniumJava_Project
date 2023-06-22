@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<config>
+
+    //index 0
+    <URL>https://www.nightlyregpacks.com/reg/admin/login/</URL>
+
+    //index 0
+    <USERNAME> PRIVATE USERNAME </USERNAME>
+
+    //index 0
+    <PASSWORD>  PRIVATE PASSWORD  </PASSWORD>
+    //index 1
+    <PASSWORD>sdfret221</PASSWORD>
+    //index 2
+    <PASSWORD>123456</PASSWORD>
+
+    //index 0
+    <PROJECTNUM>100908225</PROJECTNUM>
+    //index 1
+    <PROJECTNUM>100911011</PROJECTNUM>
+
+    //INDEX 0
+    <FIRSTNAME>Parent 1</FIRSTNAME>
+    //index 1
+    <FIRSTNAME>Child 1</FIRSTNAME>
+
+    //index 0
+    <FIRSTNAMECARDHOLDER>David</FIRSTNAMECARDHOLDER>
+
+    //index 0
+    <LASTNAMECARDHLDER>Kovel</LASTNAMECARDHLDER>
+
+    //index 0
+    <PRODUCTCATEGORYNAME>test category</PRODUCTCATEGORYNAME>
+
+    //index 0
+    <PRODUCTNAME>merchandise event</PRODUCTNAME>
+
+    //index 0
+    <PRODUCTPRICE>235</PRODUCTPRICE>
+
+    //index 0
+    <AUTOBILLPLANNAME>test autobill plan</AUTOBILLPLANNAME>
+
+    //index 0
+    <ADMINFIRSTNAME>Test first name</ADMINFIRSTNAME>
+
+    //index 0
+    <ADMINLASTNAME>Test last name</ADMINLASTNAME>
+
+    //index 0
+    <EMAIL>user1@regpacks.com</EMAIL>
+
+
+</config>
